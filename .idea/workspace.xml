@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="834dd099-a268-4de8-b5a5-191c73c171ca" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/_showcase1.JPG" afterPath="$PROJECT_DIR$/images/_showcase1.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/_showcase13.jpg" afterPath="$PROJECT_DIR$/images/_showcase13.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/_showcase15.jpg" afterPath="$PROJECT_DIR$/images/_showcase15.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/_showcase17.jpg" afterPath="$PROJECT_DIR$/images/_showcase17.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/_showcase18.jpg" afterPath="$PROJECT_DIR$/images/_showcase18.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/_showcase19.jpg" afterPath="$PROJECT_DIR$/images/_showcase19.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/_showcase20.jpg" afterPath="$PROJECT_DIR$/images/_showcase20.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/_showcase21.jpg" afterPath="$PROJECT_DIR$/images/_showcase21.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/_showcase24.jpg" afterPath="$PROJECT_DIR$/images/_showcase24.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/_showcase26.jpg" afterPath="$PROJECT_DIR$/images/_showcase26.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/_showcase8.jpg" afterPath="$PROJECT_DIR$/images/_showcase8.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/_showcase9.jpg" afterPath="$PROJECT_DIR$/images/_showcase9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/intro.jpg" afterPath="$PROJECT_DIR$/images/intro.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/IMG-20170120-WA0005.jpg" afterPath="$PROJECT_DIR$/images/one.jpg" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,20 +21,20 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
+            <state relative-caret-position="833">
               <caret line="49" column="27" lean-forward="true" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="646">
               <caret line="2117" column="9" lean-forward="true" selection-start-line="2117" selection-start-column="9" selection-end-line="2117" selection-end-column="9" />
               <folding />
             </state>
@@ -234,12 +221,12 @@
       <workItem from="1484935304386" duration="60000" />
       <workItem from="1484978653159" duration="3669000" />
       <workItem from="1485009450553" duration="2533000" />
-      <workItem from="1485023982441" duration="5161000" />
+      <workItem from="1485023982441" duration="6234000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20554000" />
+    <option name="totallyTimeSpent" value="21627000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1382" height="754" extended-state="6" />
@@ -250,7 +237,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -389,7 +376,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/intro.JPG">
+    <entry file="file://$PROJECT_DIR$/images/intro.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -450,11 +437,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/intro.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ROBOTS.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -467,23 +449,28 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="49" column="27" lean-forward="true" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/images/IMG-20170117-WA0004.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/IMG-20170117-WA0004.jpg">
+    <entry file="file://$PROJECT_DIR$/images/intro.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="646">
           <caret line="2117" column="9" lean-forward="true" selection-start-line="2117" selection-start-column="9" selection-end-line="2117" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="27" lean-forward="true" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
           <folding />
         </state>
       </provider>
