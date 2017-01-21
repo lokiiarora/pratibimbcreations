@@ -2,69 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="834dd099-a268-4de8-b5a5-191c73c171ca" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ROBOTS.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/(candid shots only)/_dsc3838.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/(candid shots only)/_dsc3866.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/(candid shots only)/_san6047.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/(candid shots only)/_san6151.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/(candid shots only)/_san6171.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/(candid shots only)/_san6418__2_.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/(candid shots only)/_san6490.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/(candid shots only)/_san6548.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/(candid shots only)/_san6759.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/(candid shots only)/_san6761.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/(candid shots only)/_san6798.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/(candid shots only)/_san6807.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/(candid shots only)/_san6932.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/(candid shots only)/dsc_3577.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/(candid shots only)/dsc_3615.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/(candid shots only)/dsc_3642.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/(candid shots only)/dsc_3659.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/(candid shots only)/dsc_3694.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/(candid shots only)/dsc_3831.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/(candid shots only)/dsc_4058.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/(candid shots only)/dsc_4059.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/(candid shots only)/dsc_4084.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/(candid shots only)/dsc_6818.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/(candid shots only)/dsc_6819.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/(candid shots only)/dsc_6821.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/(candid shots only)/dsc_6822.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/(candid shots only)/dsc_6823.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/(candid shots only)/dsc_6824.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/(candid shots only)/dsc_6825.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/(candid shots only)/dsc_6832.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/30 (2).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/NEW  LOGOS/1-Pratibimb creation logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/NEW  LOGOS/2-Pratibimb logo no phone no..jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/NEW  LOGOS/3-Pratibimb creation logo big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/NEW  LOGOS/4-Pratibimb (UNFINISHED).jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/NEW  LOGOS/5-Pratibimb logo 2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/NEW  LOGOS/LOGO OF PRATIBIMB..psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/NEW  LOGOS/USABLES LOGO/3-Pratibimb creation logo big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/NEW  LOGOS/USABLES LOGO/5-Pratibimb logo 2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/NEW  LOGOS/VISITING CARD WITH NAME..psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/NEW  LOGOS/VISITING CARD WITH OWN NAME..psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/NEW  LOGOS/pratibimb creation logo big.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/NEW  LOGOS/pratibimb creation logo.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/NEW  LOGOS/pratibimb logo no phone no..psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/New folder (3)/02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/New folder (3)/03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/New folder (3)/DSC_0609.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/New folder (3)/New folder (2)/_G7A4445.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fulls/01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fulls/02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fulls/03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fulls/04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fulls/05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fulls/06.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/intro.jpg" afterPath="$PROJECT_DIR$/images/intro.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/one.jpg" afterPath="$PROJECT_DIR$/images/one.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/two.jpg" afterPath="$PROJECT_DIR$/images/two.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/_showcase4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/pratibimb creation logo.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/_showcase1.JPG" afterPath="$PROJECT_DIR$/images/_showcase1.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/_showcase2.jpg" afterPath="$PROJECT_DIR$/images/_showcase2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/_showcase3.jpg" afterPath="$PROJECT_DIR$/images/_showcase3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/_showcase5.jpg" afterPath="$PROJECT_DIR$/images/_showcase5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/_showcase6.jpg" afterPath="$PROJECT_DIR$/images/_showcase6.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/NEW  LOGOS/USABLES LOGO/reqd_logo.jpg" afterPath="$PROJECT_DIR$/images/reqd_logo.jpg" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -85,8 +33,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="23" column="73" lean-forward="false" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="73" />
+            <state relative-caret-position="245">
+              <caret line="131" column="87" lean-forward="false" selection-start-line="131" selection-start-column="87" selection-end-line="131" selection-end-column="87" />
               <folding />
             </state>
           </provider>
@@ -95,8 +43,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="1705" column="29" lean-forward="false" selection-start-line="1705" selection-start-column="29" selection-end-line="1705" selection-end-column="29" />
+            <state relative-caret-position="-36543">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -108,6 +56,7 @@
     <findStrings>
       <find>#intro</find>
       <find>logo</find>
+      <find>creations</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -150,7 +99,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -180,6 +128,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -279,12 +228,13 @@
       <workItem from="1484911708568" duration="1048000" />
       <workItem from="1484918743824" duration="611000" />
       <workItem from="1484935304386" duration="60000" />
-      <workItem from="1484978653159" duration="2898000" />
+      <workItem from="1484978653159" duration="3669000" />
+      <workItem from="1485009450553" duration="1926000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12089000" />
+    <option name="totallyTimeSpent" value="14786000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1382" height="754" extended-state="6" />
@@ -294,18 +244,18 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,7 +278,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="182" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="182" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -352,7 +301,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="182" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="182" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -368,7 +316,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="182" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="182" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -384,7 +331,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="182" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="182" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -400,7 +346,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="182" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="182" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -427,56 +372,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/NEW  LOGOS/1-Pratibimb creation logo.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/NEW  LOGOS/VISITING CARD WITH NAME..psd">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/NEW  LOGOS/1-Pratibimb creation logo.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/NEW  LOGOS/VISITING CARD WITH NAME..psd" />
     <entry file="file://$PROJECT_DIR$/images/vivek archana/cover page.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/(candid shots only)/_dsc3866.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/(candid shots only)/_san6047.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/(candid shots only)/dsc_3659.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/(candid shots only)/dsc_3831.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/(candid shots only)/dsc_4059.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/(candid shots only)/dsc_6822.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/(candid shots only)/dsc_6824.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/(candid shots only)/_dsc3866.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/(candid shots only)/_san6047.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/(candid shots only)/dsc_3659.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/(candid shots only)/dsc_3831.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/(candid shots only)/dsc_4059.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/(candid shots only)/dsc_6822.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/(candid shots only)/dsc_6824.jpg" />
     <entry file="file://$PROJECT_DIR$/images/vivek archana/PAGE 5.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -497,56 +406,16 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/(candid shots only)/dsc_6818.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/(candid shots only)/dsc_3642.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/(candid shots only)/_san6418__2_.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/New folder (3)/03.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/New folder (3)/DSC_0609.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/New folder (3)/New folder (2)/_G7A4445.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/(candid shots only)/_san6548.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/(candid shots only)/dsc_3615.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/(candid shots only)/_san6490.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/(candid shots only)/_san6932.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/(candid shots only)/dsc_6818.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/(candid shots only)/dsc_3642.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/(candid shots only)/_san6418__2_.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/New folder (3)/03.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/New folder (3)/DSC_0609.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/New folder (3)/New folder (2)/_G7A4445.JPG" />
+    <entry file="file://$PROJECT_DIR$/images/(candid shots only)/_san6548.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/(candid shots only)/dsc_3615.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/(candid shots only)/_san6490.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/(candid shots only)/_san6932.jpg" />
     <entry file="file://$PROJECT_DIR$/images/vivek archana/PAGE 10.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -562,16 +431,8 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/fulls/01.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/New folder (3)/02.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/fulls/01.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/New folder (3)/02.jpg" />
     <entry file="file://$PROJECT_DIR$/images/two.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -594,7 +455,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="182" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="182" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -607,22 +467,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="23" column="73" lean-forward="false" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="73" />
+        <state relative-caret-position="245">
+          <caret line="131" column="87" lean-forward="false" selection-start-line="131" selection-start-column="87" selection-end-line="131" selection-end-column="87" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="1705" column="29" lean-forward="false" selection-start-line="1705" selection-start-column="29" selection-end-line="1705" selection-end-column="29" />
+        <state relative-caret-position="-36543">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
