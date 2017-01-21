@@ -1694,6 +1694,22 @@
 					height: 50px;
 				}
 
+				#logo{
+					width: 50px;
+					top: 50%;
+					position: relative;
+					transform: translate(0,-50%);
+				}
+				@media screen and (max-width: 736px) {
+					#logo{
+						width: 50px;
+						top:30px;
+						margin-left: 20px;
+						height: 40px;
+					}
+				}
+
+
 		#header nav {
 			position: absolute;
 			right: 0.5em;
@@ -1733,7 +1749,7 @@
 					text-align: center;
 					position: relative;
 					left: 0;
-					top: 0;
+					top: -10px;
 					height: 2.5em;
 					line-height: 2.5em;
 				}
@@ -2098,10 +2114,10 @@
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("../../images/intro.jpg");
+		background: url("images/overlay.png"), url("../../images/intro.JPG");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
-		background-position: top left, bottom center;
+		background-position: center;
 		background-repeat: repeat, no-repeat;
 	}
 
@@ -2120,7 +2136,7 @@
 		background: url("images/overlay.png"), url("../../images/two.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background-position: bottom left, center center;
 	}
 
 /* Contact */
