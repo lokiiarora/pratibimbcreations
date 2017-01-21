@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="834dd099-a268-4de8-b5a5-191c73c171ca" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/pratibimbcreations.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_showcase1.JPG" afterPath="$PROJECT_DIR$/showcase1.JPG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_showcase10.jpg" afterPath="$PROJECT_DIR$/showcase10.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_showcase11.jpg" afterPath="$PROJECT_DIR$/showcase11.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_showcase12.jpg" afterPath="$PROJECT_DIR$/showcase12.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_showcase13.jpg" afterPath="$PROJECT_DIR$/showcase13.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_showcase14.jpg" afterPath="$PROJECT_DIR$/showcase14.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_showcase15.jpg" afterPath="$PROJECT_DIR$/showcase15.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_showcase16.jpg" afterPath="$PROJECT_DIR$/showcase16.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_showcase17.jpg" afterPath="$PROJECT_DIR$/showcase17.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_showcase18.jpg" afterPath="$PROJECT_DIR$/showcase18.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_showcase19.jpg" afterPath="$PROJECT_DIR$/showcase19.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_showcase2.jpg" afterPath="$PROJECT_DIR$/showcase2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_showcase20.jpg" afterPath="$PROJECT_DIR$/showcase20.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_showcase21.jpg" afterPath="$PROJECT_DIR$/showcase21.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_showcase22.jpg" afterPath="$PROJECT_DIR$/showcase22.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_showcase23.jpg" afterPath="$PROJECT_DIR$/showcase23.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_showcase24.jpg" afterPath="$PROJECT_DIR$/showcase24.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_showcase26.jpg" afterPath="$PROJECT_DIR$/showcase26.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_showcase3.jpg" afterPath="$PROJECT_DIR$/showcase3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_showcase5.jpg" afterPath="$PROJECT_DIR$/showcase5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_showcase6.jpg" afterPath="$PROJECT_DIR$/showcase6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_showcase7.jpg" afterPath="$PROJECT_DIR$/showcase7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_showcase8.jpg" afterPath="$PROJECT_DIR$/showcase8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_showcase9.jpg" afterPath="$PROJECT_DIR$/showcase9.jpg" />
-    </list>
+    <list default="true" id="834dd099-a268-4de8-b5a5-191c73c171ca" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -51,7 +21,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
+            <state relative-caret-position="1019">
               <caret line="107" column="84" lean-forward="false" selection-start-line="107" selection-start-column="84" selection-end-line="107" selection-end-column="84" />
               <folding />
             </state>
@@ -259,24 +229,24 @@
       <workItem from="1484935304386" duration="60000" />
       <workItem from="1484978653159" duration="3669000" />
       <workItem from="1485009450553" duration="2533000" />
-      <workItem from="1485023982441" duration="10635000" />
+      <workItem from="1485023982441" duration="10786000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26028000" />
+    <option name="totallyTimeSpent" value="26179000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1382" height="754" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -502,7 +472,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
+        <state relative-caret-position="1019">
           <caret line="107" column="84" lean-forward="false" selection-start-line="107" selection-start-column="84" selection-end-line="107" selection-end-column="84" />
           <folding />
         </state>
