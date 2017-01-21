@@ -2,47 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="834dd099-a268-4de8-b5a5-191c73c171ca" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 23.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 24.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 25.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 26.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 27.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 28.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 29.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 30.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 31.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 32.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 33.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 34.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 35.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 36.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 37.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/PAGE 9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/cover page.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/first half.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/vivek archana/second half.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/_showcase1.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/_showcase10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/_showcase11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/_showcase12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/_showcase13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/_showcase14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/_showcase15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/_showcase16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/_showcase17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/_showcase18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/_showcase19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/_showcase2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/_showcase20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/_showcase21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/_showcase22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/_showcase23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/_showcase24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/_showcase26.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/_showcase3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/_showcase5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/_showcase6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/_showcase7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/_showcase8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/_showcase9.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -63,8 +48,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="92" column="55" lean-forward="false" selection-start-line="92" selection-start-column="55" selection-end-line="92" selection-end-column="55" />
+            <state relative-caret-position="305">
+              <caret line="107" column="85" lean-forward="false" selection-start-line="107" selection-start-column="85" selection-end-line="107" selection-end-column="85" />
               <folding />
             </state>
           </provider>
@@ -120,9 +105,9 @@
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/ROBOTS.txt" />
         <option value="$PROJECT_DIR$/images/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -166,20 +151,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pratibimbcreations" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pratibimbcreations" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -195,11 +166,12 @@
     <property name="prop_add_unversioned_files" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="G:\works\pratibimbcreations\images" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\works\pratibimbcreations\images\(candid shots only)" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\works\pratibimbcreations" />
+      <recent name="G:\works\pratibimbcreations\images" />
     </key>
   </component>
   <component name="RunManager">
@@ -284,23 +256,23 @@
       <workItem from="1484935304386" duration="60000" />
       <workItem from="1484978653159" duration="3669000" />
       <workItem from="1485009450553" duration="2533000" />
-      <workItem from="1485023982441" duration="8847000" />
+      <workItem from="1485023982441" duration="9591000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24240000" />
+    <option name="totallyTimeSpent" value="24984000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1382" height="754" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -524,7 +496,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1176">
+        <state relative-caret-position="207">
           <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
           <folding />
         </state>
@@ -532,8 +504,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="92" column="55" lean-forward="false" selection-start-line="92" selection-start-column="55" selection-end-line="92" selection-end-column="55" />
+        <state relative-caret-position="305">
+          <caret line="107" column="85" lean-forward="false" selection-start-line="107" selection-start-column="85" selection-end-line="107" selection-end-column="85" />
           <folding />
         </state>
       </provider>
